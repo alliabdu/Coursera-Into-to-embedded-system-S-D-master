@@ -6,7 +6,7 @@
 
  @file Final_Programming_Assignment
 
-Link to project: 
+Link to project: https://github.com/alliabdu/Coursera-Into-to-embedded-system-S-D-master/tree/main/course1
 
 In this programming assignment, you will get more experience with Git Version control, write more C-programming code, and integrate your code with your build system. You will reuse your version control repository and add some new c-programming functions that manipulate memory. You will test your code on your host machine, but your code should compile for both the target platform and host platform.
 
